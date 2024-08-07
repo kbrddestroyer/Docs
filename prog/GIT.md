@@ -33,3 +33,6 @@ git - распределенная система контроля версий,
 **Создание .gitignore файла**
 
 > Todo
+
+# Полезные ссылки 
+[Визуализатор git](https://git-school.github.io/visualizing-git/)
